@@ -58,7 +58,7 @@
   <h2>⚡ Quick Start</h2>
   <ol>
     <li>Clone the repository:
-      <pre>git clone https://github.com/kunalchoudhary0019/agentic-ai-research-nutrition-agent.git</pre>
+      <pre>git clone https://github.com/kunalchoudhary0019/agentic-ai-mental-health-agent.git</pre>
     </li>
     <li>Navigate to the project folder:
       <pre>cd agentic-ai-research-nutrition-agent</pre>
