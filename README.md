@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Agentic AI Research & Nutrition Agent</title>
+  <title>"Agentic AI Research & Nutrition Agent"</title>
 </head>
 <body>
 
